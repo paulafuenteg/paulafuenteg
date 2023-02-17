@@ -1,6 +1,7 @@
-- :mag: I’m currently looking for my first job as Data Analyst.
-- :computer: Just finished my Data Analytics Bootcamp in @Adalab
--  :airplane: Passionate about getting lost
+- 🔍: I’m currently looking for my first job as Data Analyst.
+- 👩‍🎓: Just finished my Data Analytics Bootcamp in [Adalab](https://github.com/Adalab)
 - 📫 How to reach me: paula.fuenteg@outlook.es
 - 😄 Pronouns: She/Her
-- :rotating_light: Under construction
+- ✈️: Passionate about getting lost
+- 🪴🧶: I test my patience with plants and crochet
+- 🚨👷‍♀️: Under construction
